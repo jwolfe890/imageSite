@@ -54,3 +54,8 @@ footer {
   margin: 0 auto;
   width: 800px;
 }
+
+svg {
+  width: 200px;
+  margin-left: 220px;
+}
